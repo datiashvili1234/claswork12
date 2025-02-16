@@ -1,0 +1,32 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.h1 {
+  color: hsl(0, 0%, 59%);
+}
+span {
+  color: black;
+}
+p {
+  font-size: 20px;
+  margin-top: 5px;
+}
+.i1 {
+  width: 350px;
+  border-radius: 10px;
+  height: 30px;
+  border: hsl(223, 87%, 63%) 1px solid;
+}
+button {
+  width: 350px;
+  border-radius: 10px;
+  height: 30px;
+  margin-top: 10px;
+  background-color: hsl(223, 87%, 63%);
+  border: 0;
+  color: white;
+}
